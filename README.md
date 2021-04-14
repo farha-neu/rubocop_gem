@@ -12,7 +12,7 @@ gem 'rubocop-rspec'
 2. Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rubocop_gem', git: 'https://github.com/network-for-good/rubocop_gem.git'
+gem 'rubocop_gem', git: 'https://github.com/farha-neu/rubucop_gem.git'
 ```
 
 3. Execute:
