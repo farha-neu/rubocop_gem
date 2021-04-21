@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     rubocop_gem (0.1.0)
-      rubocop (= 1.12.1)
+      rubocop (~> 1.12.1)
       rubocop-rails
       rubocop-rspec
 
