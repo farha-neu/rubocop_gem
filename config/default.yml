@@ -1,7 +1,6 @@
 # For Ruby
 
 AllCops:
-  NewCops: enable
   TargetRubyVersion: 2.5
 
 Style/StringLiterals:
